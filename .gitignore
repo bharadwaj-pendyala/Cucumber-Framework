@@ -1,0 +1,8 @@
+
+.classpath
+.project
+*.prefs
+target/test-classes/RunCucumberTest.class
+target/test-classes/Features/GoogleSearch.feature
+target/cucumber/cucumber.json
+target/classes/com/googlesearch/testing/steps/stepDefinitions.class
